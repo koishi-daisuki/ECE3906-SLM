@@ -1,7 +1,6 @@
 import json
 import time
 
-from matplotlib.pylab import mean
 from slm_adapter import Current, make_model_input
 from slm_client import query_slm
 
